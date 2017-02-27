@@ -5,7 +5,7 @@ Example use:
 
 ```javascript
 
-    localObjects.set("user", { name: "William", age: 25, interests: [ "music", "reading", "hiking" ] });
-    var currentUser = localObjects.get("user");
+localObjects.set("user", { name: "William", age: 25, interests: [ "music", "reading", "hiking" ] });
+var currentUser = localObjects.get("user");
     
 ```
